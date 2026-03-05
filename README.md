@@ -2,7 +2,7 @@
 ![License](https://img.shields.io/badge/license-Apache--2.0-green)
 ![Release](https://img.shields.io/github/v/release/steveswain14/mcp-prompt-suppressor)
 
-\# Prompt Suppressor (MCP)
+# Prompt Suppressor (MCP)
 
 
 
@@ -14,7 +14,7 @@ This repository contains the full implementation and runs independently. It does
 
 
 
-\## Usage
+## Usage
 
 
 
@@ -40,7 +40,7 @@ Add this server to your MCP client configuration (Claude Desktop, Cursor, Windsu
 
 
 
-\## What it does
+## What it does
 
 
 
@@ -54,7 +54,7 @@ Add this server to your MCP client configuration (Claude Desktop, Cursor, Windsu
 
 
 
-\## Relationship to the full suite
+## Relationship to the full suite
 
 
 
@@ -63,6 +63,7 @@ This suppressor is also included in the consolidated mcp-hallucination-suite, wh
 
 
 https://github.com/steveswain14/mcp-hallucination-suite
+
 
 
 
